@@ -84,5 +84,6 @@ void main ()
     // loop when value of i reached 3
     if(++i>=3) breakCondition = true;
   }   
+  assert(false);
 
 }
