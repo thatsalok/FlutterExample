@@ -1,6 +1,8 @@
 # flutter2_column
 
-The stateful application, using rows and columns
+Here I am creating StateFulWidget based application.
+
+For complete tutorial please refer here https://www.codeproject.com/Articles/1251577/Flutter-Getting-Started-Tutorial-2-StateFulWidget
 
 ## Getting Started
 
