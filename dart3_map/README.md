@@ -1,6 +1,3 @@
 # dart3_map
 
-A sample command-line application.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+The tutorial for article present at  https://www.codeproject.com/Articles/1252345/DART2-Prima-Plus-Tutorial-3-MAP
